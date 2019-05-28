@@ -1,2 +1,3 @@
 # online
-Creating a new branch is quick & simple.
+xxxxx
+Creating a new branch is quick AND simple.
